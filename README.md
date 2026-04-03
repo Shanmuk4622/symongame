@@ -2,6 +2,9 @@
 
 This is my Simon Game project built while learning web development.
 
+## Website Preview
+![Simon Game website preview](image.png)
+
 ## About the Project
 This is a simple memory game inspired by the classic Simon game.
 
